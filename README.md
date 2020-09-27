@@ -1,2 +1,2 @@
 # Error Lite
-Lite error type for go
+Nifty lite new error type creation for go
