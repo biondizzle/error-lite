@@ -1,2 +1,4 @@
 # Error Lite
-Nifty lite new error type creation for go
+Nifty error type creation for go
+
+Note: This go module is irrelevant for pretty much everyone. Just use the "errors" package built into go.
